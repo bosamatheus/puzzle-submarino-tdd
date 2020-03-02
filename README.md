@@ -24,7 +24,7 @@ todo movimento para baixo diminuirá 1 do eixo Z.
 
 Lembrando que 0 no eixo Z é a superfície do oceano.
 
-## Entrada:
+## Entrada
 
 Os cientistas enviarão os comandos agrupados em uma única linha, como no exemplo:
 
@@ -32,7 +32,7 @@ Os cientistas enviarão os comandos agrupados em uma única linha, como no exemp
 LMRDDMMUU
 ```
 
-## Saída:
+## Saída
 
 A saída deverá conter a coordenada final do submarino junto com sua direção, como no exemplo:
 
@@ -40,7 +40,7 @@ A saída deverá conter a coordenada final do submarino junto com sua direção,
 -1 2 0 NORTE
 ```
 
-## Exemplo de execução:
+## Outro Exemplo
 
 Dado a seguinte entrada:
 
